@@ -1,5 +1,3 @@
-# Anmol Singh 95173029 ICS 32 Lab sec 6 Project 5
-
 class GameState:
     def __init__(self, board:list, user_response = None):
         '''Initalizes the class'''
